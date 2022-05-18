@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta charset="UTF-8">
+    <title>CHG Lunch Menu</title>
+  </head>
+
+  <body>
+    <h1>CHG Lunch Menu</h1>
+    <p>Welcome to a basic static HTML page powered by Azure Web Apps! Here are some of the yummy items on the menu you can soon order online!</p>
+    
+    <table>
+      <tr>
+        <th>Name</th><th>Cost</th>
+      </tr>
+      <tr>
+        <td>Pepperoni Pizza</td><td>£12.00</td>
+      </tr>
+      <tr>
+        <td>Jacket Potatoe with fillings</td><td>£8.00</td>
+      </tr>
+      <tr>
+        <td>Sandwiches/Rolls/Wraps with various fillings</td><td>£12:00</td>
+      </tr>
+    </table>
+
+  </body>
+
+</html>
